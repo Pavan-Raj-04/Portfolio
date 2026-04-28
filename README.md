@@ -73,7 +73,8 @@ portfolio/
 |--------|---------|
 | 📞 Phone | 9482315927 |
 | 📧 Email | praj0412k2@gmail.com |
-| 💼 LinkedIn | [praj-ar](https://www.linkedin.com/in/praj-ar/) |
+| 💼 LinkedIn | [linkedin.com/in/praj-ar ](https://www.linkedin.com/in/praj-ar/) |
+| Netlify |  [https://pavan04-cv.netlify.app/]  |
 | 📍 Location | Mysuru, Karnataka |
 
 ---
